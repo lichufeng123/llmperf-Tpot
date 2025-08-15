@@ -1,0 +1,594 @@
+[
+  {
+    "request_index": 3,
+    "tpot": 0.06432304240581466
+  },
+  {
+    "request_index": 140,
+    "tpot": 0.06659760091029707
+  },
+  {
+    "request_index": 144,
+    "tpot": 0.0677235860894538
+  },
+  {
+    "request_index": 141,
+    "tpot": 0.06786608584520167
+  },
+  {
+    "request_index": 63,
+    "tpot": 0.06798782648433922
+  },
+  {
+    "request_index": 6,
+    "tpot": 0.06805777290175039
+  },
+  {
+    "request_index": 7,
+    "tpot": 0.06817883321797118
+  },
+  {
+    "request_index": 45,
+    "tpot": 0.06820892409374148
+  },
+  {
+    "request_index": 147,
+    "tpot": 0.06840496233716348
+  },
+  {
+    "request_index": 55,
+    "tpot": 0.06855012526510788
+  },
+  {
+    "request_index": 31,
+    "tpot": 0.06914247344008514
+  },
+  {
+    "request_index": 5,
+    "tpot": 0.06956735061262723
+  },
+  {
+    "request_index": 39,
+    "tpot": 0.06963684852819368
+  },
+  {
+    "request_index": 111,
+    "tpot": 0.07003298449218442
+  },
+  {
+    "request_index": 113,
+    "tpot": 0.07020930044195751
+  },
+  {
+    "request_index": 4,
+    "tpot": 0.07031554433032071
+  },
+  {
+    "request_index": 10,
+    "tpot": 0.07032577254555442
+  },
+  {
+    "request_index": 59,
+    "tpot": 0.07035522085376257
+  },
+  {
+    "request_index": 110,
+    "tpot": 0.07054809498138458
+  },
+  {
+    "request_index": 88,
+    "tpot": 0.07054996177638796
+  },
+  {
+    "request_index": 136,
+    "tpot": 0.07064636488198892
+  },
+  {
+    "request_index": 57,
+    "tpot": 0.07068347700128329
+  },
+  {
+    "request_index": 99,
+    "tpot": 0.0707102470926326
+  },
+  {
+    "request_index": 43,
+    "tpot": 0.07074864581227303
+  },
+  {
+    "request_index": 0,
+    "tpot": 0.07075423465859963
+  },
+  {
+    "request_index": 47,
+    "tpot": 0.07088191064172669
+  },
+  {
+    "request_index": 34,
+    "tpot": 0.07090343376481047
+  },
+  {
+    "request_index": 17,
+    "tpot": 0.07095623657438684
+  },
+  {
+    "request_index": 2,
+    "tpot": 0.07103406510740286
+  },
+  {
+    "request_index": 1,
+    "tpot": 0.07114436810209224
+  },
+  {
+    "request_index": 8,
+    "tpot": 0.07116429575587498
+  },
+  {
+    "request_index": 114,
+    "tpot": 0.07134869859916416
+  },
+  {
+    "request_index": 56,
+    "tpot": 0.07148050431247935
+  },
+  {
+    "request_index": 9,
+    "tpot": 0.07149669057468683
+  },
+  {
+    "request_index": 71,
+    "tpot": 0.07165186426871256
+  },
+  {
+    "request_index": 143,
+    "tpot": 0.0718957722513345
+  },
+  {
+    "request_index": 115,
+    "tpot": 0.07193555993484343
+  },
+  {
+    "request_index": 61,
+    "tpot": 0.07195973712961987
+  },
+  {
+    "request_index": 116,
+    "tpot": 0.07199123104877561
+  },
+  {
+    "request_index": 33,
+    "tpot": 0.07215195940890765
+  },
+  {
+    "request_index": 84,
+    "tpot": 0.07215537037590976
+  },
+  {
+    "request_index": 46,
+    "tpot": 0.07231984624688054
+  },
+  {
+    "request_index": 42,
+    "tpot": 0.072464353015477
+  },
+  {
+    "request_index": 142,
+    "tpot": 0.07248820301138505
+  },
+  {
+    "request_index": 85,
+    "tpot": 0.07255758834679804
+  },
+  {
+    "request_index": 35,
+    "tpot": 0.07288141697387975
+  },
+  {
+    "request_index": 101,
+    "tpot": 0.07288205748099416
+  },
+  {
+    "request_index": 51,
+    "tpot": 0.07304217643868532
+  },
+  {
+    "request_index": 50,
+    "tpot": 0.07310262070183805
+  },
+  {
+    "request_index": 98,
+    "tpot": 0.07315866832773313
+  },
+  {
+    "request_index": 60,
+    "tpot": 0.07317396462628323
+  },
+  {
+    "request_index": 139,
+    "tpot": 0.0732052621429944
+  },
+  {
+    "request_index": 58,
+    "tpot": 0.07321047155706001
+  },
+  {
+    "request_index": 103,
+    "tpot": 0.07321156285911497
+  },
+  {
+    "request_index": 127,
+    "tpot": 0.07326127462200265
+  },
+  {
+    "request_index": 44,
+    "tpot": 0.0733469720377631
+  },
+  {
+    "request_index": 100,
+    "tpot": 0.07336299650080211
+  },
+  {
+    "request_index": 20,
+    "tpot": 0.07343434137484951
+  },
+  {
+    "request_index": 89,
+    "tpot": 0.0735880635939959
+  },
+  {
+    "request_index": 19,
+    "tpot": 0.07371617711197279
+  },
+  {
+    "request_index": 125,
+    "tpot": 0.07386473567855216
+  },
+  {
+    "request_index": 16,
+    "tpot": 0.07389546467909575
+  },
+  {
+    "request_index": 134,
+    "tpot": 0.07396922432011308
+  },
+  {
+    "request_index": 62,
+    "tpot": 0.07400766718568223
+  },
+  {
+    "request_index": 112,
+    "tpot": 0.07414181182183414
+  },
+  {
+    "request_index": 138,
+    "tpot": 0.07417098908338435
+  },
+  {
+    "request_index": 15,
+    "tpot": 0.07418237560974587
+  },
+  {
+    "request_index": 22,
+    "tpot": 0.07423621708249602
+  },
+  {
+    "request_index": 18,
+    "tpot": 0.0743029032578217
+  },
+  {
+    "request_index": 105,
+    "tpot": 0.07433915036972422
+  },
+  {
+    "request_index": 21,
+    "tpot": 0.07435485225946392
+  },
+  {
+    "request_index": 104,
+    "tpot": 0.07458022538923564
+  },
+  {
+    "request_index": 72,
+    "tpot": 0.07458649184396389
+  },
+  {
+    "request_index": 32,
+    "tpot": 0.07462630811657714
+  },
+  {
+    "request_index": 14,
+    "tpot": 0.07467061802521124
+  },
+  {
+    "request_index": 64,
+    "tpot": 0.0747067112821326
+  },
+  {
+    "request_index": 137,
+    "tpot": 0.0748394354704612
+  },
+  {
+    "request_index": 90,
+    "tpot": 0.0748635247898166
+  },
+  {
+    "request_index": 30,
+    "tpot": 0.07487551543843185
+  },
+  {
+    "request_index": 77,
+    "tpot": 0.07488183008082237
+  },
+  {
+    "request_index": 48,
+    "tpot": 0.07489288104625952
+  },
+  {
+    "request_index": 24,
+    "tpot": 0.07493989213227152
+  },
+  {
+    "request_index": 65,
+    "tpot": 0.07497867284184487
+  },
+  {
+    "request_index": 102,
+    "tpot": 0.07498074204758866
+  },
+  {
+    "request_index": 82,
+    "tpot": 0.07501645822560897
+  },
+  {
+    "request_index": 29,
+    "tpot": 0.07510834839368444
+  },
+  {
+    "request_index": 92,
+    "tpot": 0.07519607614629155
+  },
+  {
+    "request_index": 130,
+    "tpot": 0.07519891127516463
+  },
+  {
+    "request_index": 126,
+    "tpot": 0.07540011757069374
+  },
+  {
+    "request_index": 128,
+    "tpot": 0.07549200550430864
+  },
+  {
+    "request_index": 78,
+    "tpot": 0.0756974039527831
+  },
+  {
+    "request_index": 124,
+    "tpot": 0.07571302145156877
+  },
+  {
+    "request_index": 74,
+    "tpot": 0.07591387014115714
+  },
+  {
+    "request_index": 23,
+    "tpot": 0.0759426216190716
+  },
+  {
+    "request_index": 118,
+    "tpot": 0.07597936517670613
+  },
+  {
+    "request_index": 86,
+    "tpot": 0.07602558340934606
+  },
+  {
+    "request_index": 87,
+    "tpot": 0.07602562128351285
+  },
+  {
+    "request_index": 73,
+    "tpot": 0.07610058522224426
+  },
+  {
+    "request_index": 37,
+    "tpot": 0.07641111134270732
+  },
+  {
+    "request_index": 11,
+    "tpot": 0.07673706955522387
+  },
+  {
+    "request_index": 129,
+    "tpot": 0.07692346402053317
+  },
+  {
+    "request_index": 83,
+    "tpot": 0.07692906884915628
+  },
+  {
+    "request_index": 117,
+    "tpot": 0.07703084227776973
+  },
+  {
+    "request_index": 49,
+    "tpot": 0.07709629683733785
+  },
+  {
+    "request_index": 109,
+    "tpot": 0.07721316342884042
+  },
+  {
+    "request_index": 70,
+    "tpot": 0.07750641411061485
+  },
+  {
+    "request_index": 75,
+    "tpot": 0.07768378590696372
+  },
+  {
+    "request_index": 91,
+    "tpot": 0.07809867442899784
+  },
+  {
+    "request_index": 123,
+    "tpot": 0.07827269176416325
+  },
+  {
+    "request_index": 145,
+    "tpot": 0.07846248114156057
+  },
+  {
+    "request_index": 131,
+    "tpot": 0.07868318215618886
+  },
+  {
+    "request_index": 96,
+    "tpot": 0.07914392489512069
+  },
+  {
+    "request_index": 93,
+    "tpot": 0.07925383441597131
+  },
+  {
+    "request_index": 36,
+    "tpot": 0.07926018569852017
+  },
+  {
+    "request_index": 97,
+    "tpot": 0.07927933525868928
+  },
+  {
+    "request_index": 119,
+    "tpot": 0.07983720680245929
+  },
+  {
+    "request_index": 69,
+    "tpot": 0.0809826667010606
+  },
+  {
+    "request_index": 79,
+    "tpot": 0.08169006949809594
+  },
+  {
+    "request_index": 106,
+    "tpot": 0.08244437221491371
+  },
+  {
+    "request_index": 146,
+    "tpot": 0.0827745952063574
+  },
+  {
+    "request_index": 120,
+    "tpot": 0.08291343246327498
+  },
+  {
+    "request_index": 76,
+    "tpot": 0.08346294929312478
+  },
+  {
+    "request_index": 12,
+    "tpot": 0.08352282939854588
+  },
+  {
+    "request_index": 52,
+    "tpot": 0.08500462340936521
+  },
+  {
+    "request_index": 38,
+    "tpot": 0.08547103802261827
+  },
+  {
+    "request_index": 41,
+    "tpot": 0.08650563870307425
+  },
+  {
+    "request_index": 27,
+    "tpot": 0.08915214878570672
+  },
+  {
+    "request_index": 66,
+    "tpot": 0.08997455441217492
+  },
+  {
+    "request_index": 53,
+    "tpot": 0.09045824919152877
+  },
+  {
+    "request_index": 121,
+    "tpot": 0.09056858790238478
+  },
+  {
+    "request_index": 68,
+    "tpot": 0.09119726573947502
+  },
+  {
+    "request_index": 122,
+    "tpot": 0.09384391588242742
+  },
+  {
+    "request_index": 81,
+    "tpot": 0.09459943921479344
+  },
+  {
+    "request_index": 54,
+    "tpot": 0.09625482064338924
+  },
+  {
+    "request_index": 28,
+    "tpot": 0.098726439879737
+  },
+  {
+    "request_index": 132,
+    "tpot": 0.09874395994865448
+  },
+  {
+    "request_index": 95,
+    "tpot": 0.09896387652755154
+  },
+  {
+    "request_index": 107,
+    "tpot": 0.09971857545841596
+  },
+  {
+    "request_index": 25,
+    "tpot": 0.10097144622206326
+  },
+  {
+    "request_index": 80,
+    "tpot": 0.10174025147316161
+  },
+  {
+    "request_index": 13,
+    "tpot": 0.10561640975743304
+  },
+  {
+    "request_index": 108,
+    "tpot": 0.10648068987022288
+  },
+  {
+    "request_index": 133,
+    "tpot": 0.10670508908367653
+  },
+  {
+    "request_index": 94,
+    "tpot": 0.10780881935655563
+  },
+  {
+    "request_index": 40,
+    "tpot": 0.11092224041945417
+  },
+  {
+    "request_index": 26,
+    "tpot": 0.1116468967825529
+  },
+  {
+    "request_index": 67,
+    "tpot": 0.111951419755467
+  },
+  {
+    "request_index": 135,
+    "tpot": 0.11336633621766593
+  }
+]
